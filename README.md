@@ -56,7 +56,8 @@ You can skip directly to the Inference section of the Final Ablation (**Ablation
 
 * `smolvlm_fold_0_epoch_7_baseline_attention_max_lr4e-4_dora_higher_dropout`
 
-*(If you do not have this folder locally, it can be downloaded from the provided project repository).*
+*(If you do not have this folder locally, it can be downloaded from the provided project repository: [smolvlm_fold_0_epoch_7_baseline_attention_max_lr4e-4_dora_higher_dropout](https://drive.google.com/drive/folders/1YzVCXmB-UjwVO4Ok3p4VOwr2FrXsOzHW) )*
+
 
 Otherwise, you can acquire the other folders for the historical ablations by uncommenting the code inside the Data Analysis/Engineering section and/or the beginning of the Training & Inference section.
 
