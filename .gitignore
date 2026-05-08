@@ -1,0 +1,11 @@
+/venv/*
+/images/images/test_refined/*
+/images/images/test_refined_224/*
+/images/images/train_refined/*
+/images/images/train_refined_224/*
+/images/images/val_refined/*
+/images/images/val_refined_224/*
+/images/images/train_val_refined/*
+/images/images/train_val_refined_224/*
+
+
